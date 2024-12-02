@@ -1,4 +1,0 @@
-/home/zax/project/study-llvm/build/CMakeFiles/rebuild_cache.dir
-/home/zax/project/study-llvm/build/CMakeFiles/edit_cache.dir
-/home/zax/project/study-llvm/build/CMakeFiles/LLVM_IR_API.dir
-/home/zax/project/study-llvm/build/CMakeFiles/intrinsics_gen.dir
