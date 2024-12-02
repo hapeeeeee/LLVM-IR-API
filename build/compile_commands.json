@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zax/project/study-llvm/build",
+  "command": "clang++ -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -I/usr/lib/llvm-10/include -g -std=gnu++17 -o CMakeFiles/LLVM_IR_API.dir/LLVM_IR_API.cpp.o -c /home/zax/project/study-llvm/LLVM_IR_API.cpp",
+  "file": "/home/zax/project/study-llvm/LLVM_IR_API.cpp"
+}
+]
